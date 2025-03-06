@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Apps/TextureGeneration/TextureGeneration.unity
     guid: e10becaa62c1348b5b99382ea85dd0fd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Apps/Transcription/Transcription.unity
     guid: 38132d1658cc8487eb5dbc592ec88f46
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Ubiq/1.0.0-pre.11/Demo (XRI)/Demo.unity
     guid: 2de505d34345ab340bdde30d419b24eb
   m_configObjects:
